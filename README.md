@@ -4,8 +4,10 @@ A CLI to report potential MDX v3 parsing errors found in your content, using the
 
 Run this command on your site:
 
+1
 ```bash
 npx docusaurus-mdx-checker
+100
 ```
 
 The output should give you an estimate of how many of your documents are incompatible with MDX v3 (Docusaurus flavor).
